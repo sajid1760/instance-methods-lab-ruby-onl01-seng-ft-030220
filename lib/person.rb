@@ -1,6 +1,6 @@
 class Person
   
-  def walk
+  def talk
     puts "Hello World!"
   end
   
